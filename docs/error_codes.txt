@@ -1,0 +1,9 @@
+200 - succcess
+201 - falsed
+
+500 - internal server error
+
+400 - bad request send in the body
+404 -service not found
+401 - token is invalid/expired
+405 - Method Not Allowed
